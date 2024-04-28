@@ -62,6 +62,6 @@ After setting up, in the phpMyAdmin you have to insert data to the categories ta
 - Clicking on `Insert` 
 - Inserting only the `name` Value 
 - Press `Go`
-- Now the categories inserted should be visible in the dropdown menu when creating a topic in the Web Application.
+Now the categories inserted should be visible in the dropdown menu when creating a topic in the Web Application.
 
 
