@@ -55,7 +55,7 @@ Here you can acces the forums database and table. You can create tables or modif
 
 ## Usage
 
-After setting up, in the phpMyAdmin you have to insert data to the categories table in order to create topics. 
+After setting up, in the phpMyAdmin you have to insert data to the categories table in order to create topics adn have categories. 
 
 - This can be done by going in `phpMyAdmin`.
 - Going into `categories` table
