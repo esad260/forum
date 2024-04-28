@@ -14,9 +14,9 @@ https://www.apachefriends.org/download.html
 
 ### 1. Downloading the Project
 
-Unzip the Zip file named forum from the qmplus submission website. This zip file contains all the necessary files needed for the Web application to work 
+Unzip the Zip file named forum. This zip file contains all the necessary files needed for the Web application to work 
 
-### 1. Placing the Project in XAMPP
+### 2. Placing the Project in XAMPP
 
 Extract the downloaded zip file. Copy the extracted folder, named `forum`, to the `htdocs` directory in your XAMPP installation folder. This is can found at:
 
@@ -24,7 +24,7 @@ Extract the downloaded zip file. Copy the extracted folder, named `forum`, to th
 - **Mac**: `/Applications/XAMPP/htdocs/`
 - **Linux**: `/opt/lampp/htdocs/`
 
-### 2. Running XAMPP Services
+### 3. Running XAMPP Services
 
 Open the XAMPP Control Panel and start the following services:
 
@@ -34,7 +34,7 @@ Open the XAMPP Control Panel and start the following services:
 Both has to be running for the FOrum to be able to work, this can be checked in the XAMPP applications control panel and the working services should be highligted in green.
 
 
-### 3. Accessing the Forum
+### 4. Accessing the Forum
 
 Open a web browser and navigate to the forum by entering the following URL:
 
@@ -44,7 +44,7 @@ http://localhost/forum/
 
 This URL directs your browser to the forum's index page hosted locally on your computer.
 
-### 4. Accessing phpMyAdmin
+### 5. Accessing phpMyAdmin
 
 To manage the forum’s database or tables:
 
