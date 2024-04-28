@@ -55,13 +55,14 @@ Here you can acces the forums database and table. You can create tables or modif
 
 ## Usage
 
-After setting up, in the phpMyAdmin you have to insert data to the categories table in order to create topics adn have categories. 
+After setting up, in the phpMyAdmin you have to insert data to the categories table in order to create topics and to have categories. 
 
 - This can be done by going in `phpMyAdmin`.
 - Going into `categories` table
 - Clicking on `Insert` 
 - Inserting only the `name` Value 
 - Press `Go`
+
 Now the categories inserted should be visible in the dropdown menu when creating a topic in the Web Application.
 
 
