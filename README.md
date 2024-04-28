@@ -4,7 +4,7 @@
 Welcome to the QMUL Student Forum Web Application. This README file will go through the steps for the setup of the forum running on your local machine using XAMPP.
 
 ## Prerequisites
-Before the setup your computer has to have XAMPP installed. If you dont have XAMPP installed on your computer, you can install it from the following link 
+Before the setup, your computer has to have XAMPP installed. If you dont have XAMPP installed on your computer, you can install it from the following link 
 
  ```
 https://www.apachefriends.org/download.html
@@ -14,7 +14,7 @@ https://www.apachefriends.org/download.html
 
 ### 1. Downloading the Project
 
-UnzipDownload the Zip file named forum from the qmplus submission website. This zip file contains the  If you haven't already, download the zip file containing the QMUL Student Forum project. If you received this file from a repository, ensure you have the complete package.
+Unzip the Zip file named forum from the qmplus submission website. This zip file contains all the necessary files needed for the Web application to work 
 
 ### 1. Placing the Project in XAMPP
 
