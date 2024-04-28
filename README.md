@@ -1,9 +1,14 @@
 
 # QMUL Student Forum Web Application Setup Guide
 
-Welcome to the QMUL Student Forum Web Application. This guide will walk you through the setup process to get the forum running on your local machine using XAMPP.
+Welcome to the QMUL Student Forum Web Application. This README file will go through the steps for the setup of the forum running on your local machine using XAMPP.
 
 ## Prerequisites
+Before the setup your computer has to have XAMPP installed. If you dont have XAMPP installed on your computer, you can install it form the following link 
+
+ ```
+https://www.apachefriends.org/download.html
+```
 
 Before you begin, ensure you have XAMPP installed on your computer. If you do not have XAMPP installed, download it from [Apache Friends](https://www.apachefriends.org/index.html) and follow the installation instructions for your operating system.
 
@@ -54,6 +59,4 @@ Here, you can handle database operations required for the forum, such as creatin
 
 After setting up, you should be able to use all functionalities of the QMUL Student Forum, from posting and replying to topics to managing user profiles. Explore the forum's features to familiarize yourself with its operation.
 
-## Support
 
-If you encounter any issues during the installation or use of the forum, retrace the steps to ensure all procedures were followed correctly. For unresolved issues, consult the XAMPP documentation or seek help from online forums.
