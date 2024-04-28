@@ -14,11 +14,11 @@ https://www.apachefriends.org/download.html
 
 ### 1. Downloading the Project
 
-Unzip the Zip file named forum. This zip file contains all the necessary files needed for the Web application to work 
+Unzip the Zip file named forum. This zip file contains all the necessary files needed for the Web application to work. After unzipping keep the folder name as forum. 
 
 ### 2. Placing the Project in XAMPP
 
-Extract the downloaded zip file. Copy the extracted folder, named `forum`, to the `htdocs` directory in your XAMPP installation folder. This is can found at:
+Extract the downloaded zip file. Copy the extracted folder, named `forum`, to the `htdocs` directory in your XAMPP installation folder. This can found at:
 
 - **Windows**: `C:\xampp\htdocs\`
 - **Mac**: `/Applications/XAMPP/htdocs/`
@@ -31,7 +31,7 @@ Open the XAMPP Control Panel and start the following services:
 - **Apache**: This service is required to serve the web pages.
 - **MySQL**: This service manages the database.
 
-Both has to be running for the FOrum to be able to work, this can be checked in the XAMPP applications control panel and the working services should be highligted in green.
+Both has to be running for the Forum to be able to work, this can be checked in the XAMPP applications control panel and the working services should be highligted in green.
 
 
 ### 4. Accessing the Forum
@@ -55,6 +55,15 @@ Here you can acces the forums database and table. You can create tables or modif
 
 ## Usage
 
-After setting up, in the phpMyAdmin you have to insert data to the categories table in order to create topics. After inserting data all the funcionalities should work of the QMUL Student Forum, from posting and replying to topics to managing user profiles.
+After setting up, in the phpMyAdmin you have to insert data to the categories table in order to create topics. 
+
+- This can be done by going in phpMyAdmin.
+- Going into categories table
+- Cliking on insert 
+- Inserting only the **name** Value 
+- Press Go
+- Now the categories inserte dshould be visible in the dropdown menu when creating a topic.
+
+After inserting data all the funcionalities should work of the QMUL Student Forum, from posting and replying to topics to managing user profiles.
 
 
